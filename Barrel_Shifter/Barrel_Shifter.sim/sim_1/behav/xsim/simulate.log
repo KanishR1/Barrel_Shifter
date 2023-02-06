@@ -1,0 +1,18 @@
+Time resolution is 1 ps
+                   0ns --> data_in  = 1010 , right = 0 , arith = 0 , sa = 0 , data_out = 1010 
+                  10ns --> data_in  = 1010 , right = 0 , arith = 0 , sa = 1 , data_out = 0100 
+                  20ns --> data_in  = 1010 , right = 0 , arith = 0 , sa = 2 , data_out = 1000 
+                  30ns --> data_in  = 1010 , right = 0 , arith = 0 , sa = 3 , data_out = 0000 
+                  40ns --> data_in  = 1010 , right = 0 , arith = 1 , sa = 0 , data_out = 1010 
+                  50ns --> data_in  = 1010 , right = 0 , arith = 1 , sa = 1 , data_out = 1010 
+                  60ns --> data_in  = 1010 , right = 0 , arith = 1 , sa = 2 , data_out = 1010 
+                  70ns --> data_in  = 1010 , right = 0 , arith = 1 , sa = 3 , data_out = 1010 
+                  80ns --> data_in  = 1010 , right = 1 , arith = 0 , sa = 0 , data_out = 1010 
+                  90ns --> data_in  = 1010 , right = 1 , arith = 0 , sa = 1 , data_out = 0101 
+                 100ns --> data_in  = 1010 , right = 1 , arith = 0 , sa = 2 , data_out = 0010 
+                 110ns --> data_in  = 1010 , right = 1 , arith = 0 , sa = 3 , data_out = 0001 
+                 120ns --> data_in  = 1010 , right = 1 , arith = 1 , sa = 0 , data_out = 1010 
+                 130ns --> data_in  = 1010 , right = 1 , arith = 1 , sa = 1 , data_out = 1101 
+                 140ns --> data_in  = 1010 , right = 1 , arith = 1 , sa = 2 , data_out = 1110 
+                 150ns --> data_in  = 1010 , right = 1 , arith = 1 , sa = 3 , data_out = 1111 
+$finish called at time : 160 ps : File "C:/Users/kanis/OneDrive/Desktop/Barrel Shifter/tb.v" Line 24

@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/kanis/OneDrive/Desktop/Barrel Shifter/barrel_shifter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module barrel_shifter
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/kanis/OneDrive/Desktop/Barrel Shifter/tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb
